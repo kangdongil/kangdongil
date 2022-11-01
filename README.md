@@ -37,10 +37,16 @@
 </div>
 <div align="center">
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Areactjs">
-    <img src="https://img.shields.io/badge/React.js-222222?style=flat-square&logo=React&logoColor=61dafb"/>
+    <img src="https://img.shields.io/badge/React.js-282c34?style=flat-square&logo=React&logoColor=61dafb"/>
   </a>
-    <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Areact-router">
-  <img src="https://img.shields.io/badge/R.Router-222222?style=flat-square&logo=React Router&logoColor=ca4245"/>
+  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Areact-router">
+    <img src="https://img.shields.io/badge/R.Router-282c34?style=flat-square&logo=React Router&logoColor=ca4245"/>
+  </a>
+  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Achakra-ui">
+    <img src="https://img.shields.io/badge/R.Query-282c34?style=flat-square&logo=React Query&logoColor=ffb200"/>
+  </a>
+  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Atanstack-query">
+    <img src="https://img.shields.io/badge/Chakra.ui-2c313d?style=flat-square&logo=Chakra UI&logoColor=4fd1c5"/>
   </a>
 </div>
 <hr />
