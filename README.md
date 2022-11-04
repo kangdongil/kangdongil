@@ -17,6 +17,9 @@
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Ajavascript">
     <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=2d3035"/>
   </a>
+  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Atypescript">
+    <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  </a>
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Anodejs">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   </a>
@@ -59,7 +62,6 @@
 <div align="center">
 
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akang8150)](https://solved.ac/akang8150)
-
 </div>
 <hr />
 <h3 align="center">─ 📇 Contact Me ─</h3>
