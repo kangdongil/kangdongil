@@ -6,6 +6,9 @@
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Agithub">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   </a>
+  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Agitpod">
+    <img src="https://img.shields.io/badge/GitPod-262626?style=flat-square&logo=Gitpod&logoColor=ffae33"/>
+  </a>
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Abash">
     <img src="https://img.shields.io/badge/Bash-2c383c?style=flat-square&logo=GNU Bash&logoColor=white"/>
   </a>
