@@ -101,7 +101,7 @@
 </div>
 
 <hr />
-<h3 align="center">─ 📱 MobileApp Dev Experience ─</h3>
+<h3 align="center">─ 📱 MobileApp Dev Experiences ─</h3>
 <div align="center">
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Areact-native">
     <img src="https://img.shields.io/badge/ReactNative-57595D?style=flat-square&logo=React&logoColor=white"/>
@@ -120,7 +120,7 @@
 </div>
 
 <hr />
-<h3 align="center">─ 🏆 Solved.AC Ranking ─</h3>
+<h3 align="center">─ 🏆 Computer Algorithm Studies ─</h3>
 <div align="center">
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Acpp-algorithms">
     <img src="https://img.shields.io/badge/CPP-659AD2?style=flat-square&logo=C%2B%2B&logoColor=white"/>
