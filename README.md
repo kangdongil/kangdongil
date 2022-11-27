@@ -83,9 +83,26 @@
 <hr />
 <h3 align="center">─ 🏆 Solved.AC Ranking ─</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/CPP-659AD2?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  
+  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Acpp-algorithms">
+    <img src="https://img.shields.io/badge/CPP-659AD2?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Apython-algorithms">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Ajuypter-notebook">
+    <img src="https://img.shields.io/badge/Jupyter-57595D?style=flat-square&logo=Jupyter&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Anumpy">
+    <img src="https://img.shields.io/badge/NumPy-57595D?style=flat-square&logo=NumPy&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Ascikit-learn">
+    <img src="https://img.shields.io/badge/sk.learn-57595D?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Apandas">
+    <img src="https://img.shields.io/badge/pandas-57595D?style=flat-square&logo=pandas&logoColor=white"/>
+  </a>
 </div>
 <div align="center">
 
