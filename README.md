@@ -137,7 +137,7 @@
     <img src="https://img.shields.io/badge/NumPy-57595D?style=flat-square&logo=NumPy&logoColor=white"/>
   </a>
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Ascikit-learn">
-    <img src="https://img.shields.io/badge/sk.learn-57595D?style=flat-square&logo=scikit-learn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/sck.learn-57595D?style=flat-square&logo=scikit-learn&logoColor=white"/>
   </a>
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Apandas">
     <img src="https://img.shields.io/badge/pandas-57595D?style=flat-square&logo=pandas&logoColor=white"/>
