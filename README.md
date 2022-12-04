@@ -130,9 +130,6 @@
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Ajuypter-notebook">
-    <img src="https://img.shields.io/badge/Jupyter-57595D?style=flat-square&logo=Jupyter&logoColor=white"/>
-  </a>
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Anumpy">
     <img src="https://img.shields.io/badge/NumPy-57595D?style=flat-square&logo=NumPy&logoColor=white"/>
   </a>
@@ -141,6 +138,17 @@
   </a>
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Apandas">
     <img src="https://img.shields.io/badge/pandas-57595D?style=flat-square&logo=pandas&logoColor=white"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Ajuypter-notebook">
+    <img src="https://img.shields.io/badge/Jupyter-57595D?style=flat-square&logo=Jupyter&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Atensorflow">
+    <img src="https://img.shields.io/badge/TensorFlow-57595D?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Akeras">
+    <img src="https://img.shields.io/badge/Keras-57595D?style=flat-square&logo=Keras&logoColor=white"/>
   </a>
 </div>
 <div align="center">
