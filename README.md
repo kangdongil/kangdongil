@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white"/>
   </a>
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Agithub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangdongil&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=true"/>
   </a>
 </div>
 <div align="center">
