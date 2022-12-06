@@ -67,7 +67,7 @@
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Aprisma">
     <img src="https://img.shields.io/badge/Prisma-57595D?style=flat-square&logo=Prisma&logoColor=white"/>
   </a>
-  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Acloudfare">
+  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Acloudflare">
     <img src="https://img.shields.io/badge/Cloudflare-f07003?style=flat-square&logo=Cloudflare&logoColor=white"/>
   </a>
 </div>
