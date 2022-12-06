@@ -42,9 +42,6 @@
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Apoetry">
     <img src="https://img.shields.io/badge/Poetry-4957cf?style=flat-square&logo=Poetry&logoColor=white"/>
   </a>
-  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Apostgresql">
-    <img src="https://img.shields.io/badge/postgreSQL-57595D?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-  </a>
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Adjango">
     <img src="https://img.shields.io/badge/Django-092e20?style=flat-square&logo=Django&logoColor=white"/>
   </a>
@@ -55,9 +52,6 @@
   </a>
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Areact-router">
     <img src="https://img.shields.io/badge/R.Router-282c34?style=flat-square&logo=React Router&logoColor=ca4245"/>
-  </a>
-<a href="https://github.com/kangdongil?tab=repositories&q=topic%3Agraphql">
-    <img src="https://img.shields.io/badge/GraphQL-57595D?style=flat-square&logo=GraphQL&logoColor=white"/>
   </a>
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Atanstack-query">
     <img src="https://img.shields.io/badge/R.Query-282c34?style=flat-square&logo=React Query&logoColor=ffb200"/>
@@ -73,19 +67,8 @@
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Aprisma">
     <img src="https://img.shields.io/badge/Prisma-57595D?style=flat-square&logo=Prisma&logoColor=white"/>
   </a>
-</div>
-<div align="center">
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Acloudfare">
     <img src="https://img.shields.io/badge/Cloudflare-57595D?style=flat-square&logo=Cloudflare&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Aserverless">
-    <img src="https://img.shields.io/badge/Serverless-57595D?style=flat-square&logo=Serverless&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Aredis">
-    <img src="https://img.shields.io/badge/Redis-57595D?style=flat-square&logo=Redis&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Aplanetscale">
-    <img src="https://img.shields.io/badge/PlanetScale-57595D?style=flat-square&logo=PlanetScale&logoColor=white"/>
   </a>
 </div>
 <div align="center">
@@ -130,6 +113,9 @@
   </a>
 </div>
 <div align="center">
+  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Ajuypter-notebook">
+    <img src="https://img.shields.io/badge/Jupyter-57595D?style=flat-square&logo=Jupyter&logoColor=white"/>
+  </a>
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Anumpy">
     <img src="https://img.shields.io/badge/NumPy-57595D?style=flat-square&logo=NumPy&logoColor=white"/>
   </a>
@@ -138,17 +124,6 @@
   </a>
   <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Apandas">
     <img src="https://img.shields.io/badge/pandas-57595D?style=flat-square&logo=pandas&logoColor=white"/>
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Ajuypter-notebook">
-    <img src="https://img.shields.io/badge/Jupyter-57595D?style=flat-square&logo=Jupyter&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Atensorflow">
-    <img src="https://img.shields.io/badge/TensorFlow-57595D?style=flat-square&logo=TensorFlow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kangdongil?tab=repositories&q=topic%3Akeras">
-    <img src="https://img.shields.io/badge/Keras-57595D?style=flat-square&logo=Keras&logoColor=white"/>
   </a>
 </div>
 <div align="center">
